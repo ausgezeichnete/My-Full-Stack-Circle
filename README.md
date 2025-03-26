@@ -1,9 +1,11 @@
-# S25-Full-Stack-Circle
+# S25-Full-Stack-Circleg
+
 <<<<<<< HEAD
+
 ## Contributors
-Suleman Ahmed Khan
-=======
+
+# Suleman Ahmed Khan
 
 List of contributors:
 Iman Bajalan
->>>>>>> 7de75c4cd06a4b72859760efcf9d7938dc47bb96
+Bianca Dascalescu
