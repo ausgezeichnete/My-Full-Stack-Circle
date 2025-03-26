@@ -1,11 +1,8 @@
-# S25-Full-Stack-Circleg
-
-<<<<<<< HEAD
-
-## Contributors
-
-# Suleman Ahmed Khan
+# S25-Full-Stack-Circle
 
 List of contributors:
 Iman Bajalan
+Angelo Centeno
+Savitha Muthuramalingam
+Sonali Rathod
 Bianca Dascalescu
